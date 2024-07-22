@@ -1,6 +1,6 @@
 # About
 
-### Download ByBit Historical Data using the official ByBit api and pybit in a csv format
+### Download Historical Data in a csv format
 
 
 # Getting Started
